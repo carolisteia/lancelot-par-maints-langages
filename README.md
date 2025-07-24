@@ -1,6 +1,6 @@
-# Par maints langages, maints manuscrits, s'en va Lancelot...
-
-![Lancelot](./assets/lancelot_kneeling.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/carolisteia/lancelot-par-maints-langages/main/img/github_banner_letterboxed.png" alt="Lancelot Banner" />
+</p>
 
 > *An aligned multilingual corpus of the* Lancelot en prose, *processed with [Aquilign](https://github.com/ProMeText/Aquilign).*  
 > This repository hosts the training data and aligned outputs for a multilingual medieval tradition.
