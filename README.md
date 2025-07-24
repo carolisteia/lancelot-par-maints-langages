@@ -1,6 +1,6 @@
 
 
-![banner](img/github_banner_letterboxed.png)
+![banner](img/github_banner_fullscene_1600x350.png)
 
 
 > *An aligned multilingual corpus of the* Lancelot en prose, *processed with [Aquilign](https://github.com/ProMeText/Aquilign).*  
