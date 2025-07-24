@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/carolisteia/lancelot-par-maints-langages/main/img/github_banner_letterboxed.png" alt="Lancelot Banner" />
-</p>
+
+
+![banner](img/github_banner_letterboxed.png)
+
 
 > *An aligned multilingual corpus of the* Lancelot en prose, *processed with [Aquilign](https://github.com/ProMeText/Aquilign).*  
 > This repository hosts the training data and aligned outputs for a multilingual medieval tradition.
