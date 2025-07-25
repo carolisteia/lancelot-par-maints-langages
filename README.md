@@ -1,6 +1,6 @@
 
 
-![banner](img/lancelot_banner_encore.png)
+![banner](img/lancelot_banner_final_1600x400_clean.png)
 
 
 
