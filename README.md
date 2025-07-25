@@ -1,9 +1,10 @@
 
 
 ![banner](img/github_banner_final_balance.png)
-<p align="center">
-  <img src="lancelot_deco.png" alt="filigrane" width="200" style="opacity: 0.1;">
-</p>
+
+
+
+## 📜 Par maints langages, par maints manuscrits, s'en va Lacenlot ... ⚔️ 
 
 > *An aligned multilingual corpus of the* Lancelot en prose, *processed with [Aquilign](https://github.com/ProMeText/Aquilign).*  
 > This repository hosts the training data and aligned outputs for a multilingual medieval tradition.
