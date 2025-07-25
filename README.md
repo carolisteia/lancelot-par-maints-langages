@@ -1,6 +1,6 @@
 
 
-![banner](img/github_banner_final_balance.png)
+![banner](img/lancelot_banner_encore.png)
 
 
 
