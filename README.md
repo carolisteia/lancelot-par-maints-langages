@@ -1,15 +1,14 @@
 
-
 ![banner](img/lancelot_banner_final_1600x400_clean.png)
 
+# 📜 Across Languages, Lancelot Rides  
+*Tracing Lancelot’s journey not only through lands and courts, but through languages, manuscripts, and time.*
 
+> An aligned multilingual corpus of the *Lancelot en prose*, processed with [Aquilign](https://github.com/ProMeText/Aquilign).
 
-## 📜 Par maints langages, par maints manuscrits, s'en va Lacenlot ... ⚔️ 
-
-> *An aligned multilingual corpus of the* Lancelot en prose, *processed with [Aquilign](https://github.com/ProMeText/Aquilign).*  
-> This repository hosts the training data and aligned outputs for a multilingual medieval tradition.
 
 ## 📚 Description
+This repository hosts the training data and aligned outputs for a multilingual medieval tradition.
 
 This repository contains a subset of aligned witnesses from the *Lancelot en prose*, one of the core cycles of the Arthurian literary tradition. The corpus is multilingual (Old French, Castilian, Italian) and has been segmented and aligned using the [Aquilign](https://github.com/ProMeText/Aquilign) pipeline, a BERT-based tool for multilingual clause-level alignment of medieval texts.
 
