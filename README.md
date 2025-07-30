@@ -72,6 +72,14 @@ Example of multilingual alignment table:
 👉 [View aligned chapter](https://github.com/carolisteia/lancelot-par-maints-langages/blob/main/segmentation_alignment_results/outputs/lancelot_1_bert_new/final_result.html)
 
 
+## 🤝 Contributing to the Project
+
+Contributions to the project are highly encouraged, whether they be additional data, bug fixes, or enhancements to the analysis scripts. To contribute:
+
+1. **Fork the Repository** – Start by forking the repository and cloning it locally.  
+2. **Create a Branch** – Make your changes in a new branch named after the feature or fix.  
+3. **Submit a Pull Request** – After pushing your changes to your fork, open a pull request for discussion and review.
+
 
 ## 🔖 Citation
 If you use the corpus or refer to the alignment methodology, please cite:
@@ -103,17 +111,6 @@ If you use the corpus or refer to the alignment methodology, please cite:
 }
 ```
 
-## 🤝 Contributing to the Project
-
-Contributions to the project are highly encouraged, whether they be additional data, bug fixes, or enhancements to the analysis scripts. To contribute:
-
-1. **Fork the Repository** – Start by forking the repository and cloning it locally.  
-2. **Create a Branch** – Make your changes in a new branch named after the feature or fix.  
-3. **Submit a Pull Request** – After pushing your changes to your fork, open a pull request for discussion and review.
-
----
-
----
 
 ## 🔗 Related Projects
 
@@ -137,8 +134,8 @@ This work benefited from national funding managed by the **Agence Nationale de l
 
 > Ce travail a bénéficié d'une aide de l’État gérée par l’**Agence Nationale de la Recherche** au titre du programme d’**Investissements d’avenir** portant la référence **ANR-21-ESRE-0005 (Biblissima+)**.
 
-![Biblissima+ Logo](img/logo_biblissima.png)
 
+<img src="img/logo_biblissima.png" alt="Biblissima+ Logo" width="700"/>
 
 ## ⚖️ Licensing
 
