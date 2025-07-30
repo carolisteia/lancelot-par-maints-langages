@@ -26,10 +26,10 @@ In addition to alignment outputs, the repository includes manual corrections and
 
 This project is part of a broader study on **computational multilingual alignment and stemmatological analysis** of medieval texts. The case study focuses on the *Lancelot en prose*, a major prose romance composed anonymously in the early 13th century. With at least 126 surviving manuscript witnesses and numerous translations, the *Lancelot* represents one of the most widespread and complex textual traditions of medieval Europe.
 
-This corpus includes aligned segments from the Romance tradition—specifically:
-- **Old French (source)**,
-- **Castilian (Old Spanish)**, and
-- **Old Italian**.
+This corpus includes aligned segments from the Medieval Romance tradition—specifically:
+- **French (source)**,
+- **Castilian**, and
+- **Italian**.
 
 Due to the fragmentary and unstable nature of the textual transmission, only **comparable segments** from selected witnesses were retained. Alignment is performed at the **clause (“sentence”) level**, preceded by a segmentation step using a custom-trained model. The aligned outputs are then used for **variant classification** and **stemmatological exploration**.
 
