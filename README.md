@@ -56,7 +56,9 @@ Only three comparable segments were retained and aligned:
 ## 🧰 Alignment Tool
 The corpus was processed using **Aquilign**, a multilingual alignment tool developed by the [ProMeText](https://github.com/ProMeText) team.
 
-- **Segmentation**: Performed at the clause level using custom token classification models.
+ - **Segmentation**: Performed at the clause level using custom token classification models trained on historical data.  
+  For detailed information about the segmentation guidelines, training data, and language coverage, see the [Multilingual Segmentation Data](https://github.com/ProMeText/multilingual-segmentation-data) repository, particularly its [`/docs/`](https://github.com/ProMeText/multilingual-segmentation-data/tree/main/docs) folder.
+
 - **Alignment**: Based on contextual embeddings using [LaBSE](https://github.com/google-research/bert/blob/master/multilingual.md).
 - **Languages**: Old French, Old Spanish (Castilian), Old Italian
 
