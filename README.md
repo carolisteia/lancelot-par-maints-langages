@@ -69,9 +69,7 @@ The corpus was processed using **Aquilign**, a multilingual alignment tool devel
 ## 🔍 Visualization
 
 Example of multilingual alignment table:
-👉 [View aligned chapter](https://prometext.github.io/Multilingual_Aegidius/data/aegidius/results/multilingual_tables_ft/livre_1/partie_2/chapitre_1/final_result.html)
-
-## 🗂️ Structure
+👉 [View aligned chapter](https://github.com/carolisteia/lancelot-par-maints-langages/blob/main/segmentation_alignment_results/outputs/lancelot_1_bert_new/final_result.html)
 
 
 
