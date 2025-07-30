@@ -32,6 +32,33 @@ Example of multilingual alignment table:
 - `json/`: structured export (training data or evaluation sets)
 - `README.md`: documentation (you are here)
 
+- ## Citation
+
+Gille Levenson, M., Ing, L., & Camps, J.-B. (2024). Textual Transmission without Borders: Multiple Multilingual Alignment and Stemmatology of the ``Lancelot en prose’’ (Medieval French, Castilian, Italian). In W. Haverals, M. Koolen, & L. Thompson (Eds.), Proceedings of the Computational Humanities   Research Conference 2024 (Vol. 3834, pp. 65–92). CEUR. https://ceur-ws.org/Vol-3834/#paper104
+
+
+```
+@inproceedings{gillelevenson_TextualTransmissionBorders_2024a,
+  title = {Textual {{Transmission}} without {{Borders}}: {{Multiple Multilingual Alignment}} and {{Stemmatology}} of the ``{{Lancelot}} En Prose'' ({{Medieval French}}, {{Castilian}}, {{Italian}})},
+  shorttitle = {Textual {{Transmission}} without {{Borders}}},
+  booktitle = {Proceedings of the {{Computational Humanities}}   {{Research Conference}} 2024},
+  author = {Gille Levenson, Matthias and Ing, Lucence and Camps, Jean-Baptiste},
+  editor = {Haverals, Wouter and Koolen, Marijn and Thompson, Laure},
+  date = {2024},
+  series = {{{CEUR Workshop Proceedings}}},
+  volume = {3834},
+  pages = {65--92},
+  publisher = {CEUR},
+  location = {Aarhus, Denmark},
+  issn = {1613-0073},
+  url = {https://ceur-ws.org/Vol-3834/#paper104},
+  urldate = {2024-12-09},
+  eventtitle = {Computational {{Humanities Research}} 2024},
+  langid = {english},
+  file = {/home/mgl/Bureau/Travail/Bibliotheque_zoteros/storage/CIH7IAHV/Levenson et al. - 2024 - Textual Transmission without Borders Multiple Multilingual Alignment and Stemmatology of the ``Lanc.pdf}
+}
+
+
 ## 🔖 Citation
 
 If you use the corpus or refer to the alignment, please cite:
