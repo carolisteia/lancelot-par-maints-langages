@@ -1,13 +1,11 @@
 
 ![banner](img/lancelot_banner_final_1600x400_clean.png)
 
-
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC--BY--NC--SA--4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Last Commit](https://img.shields.io/github/last-commit/ProMeText/lancelot-par-maints-langages)](https://github.com/ProMeText/lancelot-par-maints-langages/commits/main)
-[![Repo Size](https://img.shields.io/github/repo-size/ProMeText/lancelot-par-maints-langages)](https://github.com/ProMeText/lancelot-par-maints-langages)
-[![Issues](https://img.shields.io/github/issues/ProMeText/lancelot-par-maints-langages)](https://github.com/ProMeText/lancelot-par-maints-langages/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/carolisteia/lancelot-par-maints-langages)](https://github.com/carolisteia/lancelot-par-maints-langages/commits/main)
+[![Repo Size](https://img.shields.io/github/repo-size/carolisteia/lancelot-par-maints-langages)](https://github.com/carolisteia/lancelot-par-maints-langages)
+[![Issues](https://img.shields.io/github/issues/carolisteia/lancelot-par-maints-langages)](https://github.com/carolisteia/lancelot-par-maints-langages/issues)
 
-*Tracing La
 # 📜 Across Languages, Lancelot Rides  
 *Tracing Lancelot’s journey not only through lands and courts, but through languages, manuscripts, and time.*
 
@@ -73,9 +71,7 @@ Example of multilingual alignment table:
 
 ## 🗂️ Structure
 
-- `data/`: source XMLs and aligned outputs
-- `json/`: structured export (training data or evaluation sets)
-- `README.md`: documentation (you are here)
+
 
 ## 🔖 Citation
 If you use the corpus or refer to the alignment methodology, please cite:
@@ -117,6 +113,23 @@ Contributions to the project are highly encouraged, whether they be additional d
 
 ---
 
+---
+
+## 🔗 Related Projects
+
+This repository is part of a broader ecosystem of tools and corpora developed for the study of medieval multilingual textual traditions:
+
+- [Aquilign](https://github.com/ProMeText/Aquilign)  
+  A clause-level multilingual alignment engine based on contextual embeddings (LaBSE), developed for medieval texts.
+
+- [Multilingual Segmentation Data](https://github.com/ProMeText/multilingual-segmentation-data)  
+Source texts and their segmented versions in multiple medieval Romance languages, as well as in Latin and English, used for training and evaluating clause segmentation models.
+
+- [Multilingual Biblical Alignment Corpus](#) *(name and link TBD)*  
+Training corpus for multilingual alignment, based on medieval and modern Bible translations in Romance languages, Latin, Greek, and English, designed to support supervised alignment approaches.
+
+- [Multilingual Aegidius](https://github.com/ProMeText/Multilingual_Aegidius)  
+A parallel corpus of translations of Aegidius Romanus’ De regimine principum in Latin, Medieval Romance languages, and English, segmented and aligned using the same pipeline.
 
 ## 💰 Funding
 
@@ -124,7 +137,7 @@ This work benefited from national funding managed by the **Agence Nationale de l
 
 > Ce travail a bénéficié d'une aide de l’État gérée par l’**Agence Nationale de la Recherche** au titre du programme d’**Investissements d’avenir** portant la référence **ANR-21-ESRE-0005 (Biblissima+)**.
 
-![Biblissima+ Logo](docs/images/logo_biblissima.png)
+![Biblissima+ Logo](img/logo_biblissima.png)
 
 
 ## ⚖️ Licensing
