@@ -14,7 +14,7 @@
 
 ## 📚 Description
 
-This repository contains training and evaluation data for the study of the multilingual medieval textual tradition of the *Lancelot en prose*, including manually corrected alignments and automatically generated outputs.
+This repository provides training and evaluation data for the study of the multilingual medieval textual tradition of the *Lancelot en prose*, including both manually corrected alignments and automatically generated outputs.
 
 It features a curated selection of witnesses from the *Lancelot en prose*, one of the core cycles of the Arthurian literary corpus. The texts are presented in multiple medieval languages—Old French, Old Spanish (Castilian), and Old Italian—and have been automatically segmented and aligned using the [Aquilign](https://github.com/ProMeText/Aquilign) pipeline, a BERT-based tool for multilingual clause-level alignment of medieval texts.
 
@@ -31,7 +31,7 @@ This corpus includes aligned segments from the Romance tradition—specifically:
 - **Castilian (Old Spanish)**, and
 - **Old Italian**.
 
-Due to the unstable and fragmentary nature of transmission, only **comparable segments** from selected witnesses were retained. Alignment is performed at the **clause (“sentence”) level**, preceded by a segmentation step using a custom-trained model. The aligned outputs are then used for **variant classification** and **stemmatological exploration**.
+Due to the fragmentary and unstable nature of the textual transmission, only **comparable segments** from selected witnesses were retained. Alignment is performed at the **clause (“sentence”) level**, preceded by a segmentation step using a custom-trained model. The aligned outputs are then used for **variant classification** and **stemmatological exploration**.
 
 ### Source Witnesses
 
@@ -60,7 +60,7 @@ The corpus was processed using **Aquilign**, a multilingual alignment tool devel
   For detailed information about the segmentation guidelines, training data, and language coverage, see the [Multilingual Segmentation Data](https://github.com/ProMeText/multilingual-segmentation-data) repository, particularly its [`/docs/`](https://github.com/ProMeText/multilingual-segmentation-data/tree/main/docs) folder.
 
 - **Alignment**: Based on contextual embeddings using [LaBSE](https://github.com/google-research/bert/blob/master/multilingual.md).
-- **Languages**: Old French, Old Spanish (Castilian), Old Italian
+- **Languages**:  Medieval French, Castilian, and Italian
 
 > Aquilign repository: [https://github.com/ProMeText/Aquilign](https://github.com/ProMeText/Aquilign)
 
@@ -143,7 +143,7 @@ This work benefited from national funding managed by the **Agence Nationale de l
 ## ⚖️ Licensing
 
 This project is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.  
-This license allows users to adapt, remix, and build upon the work non-commercially, as long as they credit the authors and license their new creations under the same terms.
+This license allows users to adapt, remix, and build upon the work for non-commercial purposes, provided that they credit the original authors and share any derivative works under the same license.
 
 
 
