@@ -119,12 +119,12 @@ This repository is part of a broader ecosystem of tools and corpora developed fo
 - [Aquilign](https://github.com/ProMeText/Aquilign)  
   A clause-level multilingual alignment engine based on contextual embeddings (LaBSE), developed for medieval texts.
 
-- [Multilingual Segmentation Data](https://github.com/ProMeText/multilingual-segmentation-data)  
+- [Multilingual Segmentation Dataset](https://github.com/ProMeText/multilingual-segmentation-dataset)  
 Source texts and their segmented versions in multiple medieval Romance languages, as well as in Latin and English, used for training and evaluating clause segmentation models.
 
-- [Multilingual Biblical Alignment Corpus](#) *(name and link TBD)*  
-Training corpus for multilingual alignment, based on medieval and modern Bible translations in Romance languages, Latin, Greek, and English, designed to support supervised alignment approaches.
-
+- [Parallelium – an aligned scriptures dataset](https://github.com/carolisteia/parallelium-scriptures-alignment-dataset/tree/main)  
+  A multilingual dataset of aligned Biblical and Qur’anic texts — spanning medieval and modern languages — designed for training and evaluating multilingual alignment models, especially in historical and philological contexts.
+  
 - [Multilingual Aegidius](https://github.com/ProMeText/Multilingual_Aegidius)  
 A parallel corpus of translations of Aegidius Romanus’ De regimine principum in Latin, Medieval Romance languages, and English, segmented and aligned using the same pipeline.
 
