@@ -119,7 +119,7 @@ This repository is part of a broader ecosystem of tools and corpora developed fo
 - [Aquilign](https://github.com/ProMeText/Aquilign)  
   A clause-level multilingual alignment engine based on contextual embeddings (LaBSE), developed for medieval texts.
 
-- [Multilingual Segmentation Dataset](https://github.com/ProMeText/multilingual-segmentation-dataset)  
+- [Multilingual Segmentation Dataset](https://github.com/carolisteia/multilingual-segmentation-dataset))  
 Source texts and their segmented versions in multiple medieval Romance languages, as well as in Latin and English, used for training and evaluating clause segmentation models.
 
 - [Parallelium – an aligned scriptures dataset](https://github.com/carolisteia/parallelium-scriptures-alignment-dataset/tree/main)  
