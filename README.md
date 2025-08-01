@@ -33,24 +33,6 @@ This corpus includes aligned segments from the Medieval Romance tradition—spec
 
 Due to the fragmentary and unstable nature of the textual transmission, only **comparable segments** from selected witnesses were retained. Alignment is performed at the **clause (“sentence”) level**, preceded by a segmentation step using a custom-trained model. The aligned outputs are then used for **variant classification** and **stemmatological exploration**.
 
-### Source Witnesses
-
-The aligned corpus includes:
-
-- **Lancellotto** (Italian): Florence, Biblioteca della Fondazione Ezio Franceschini, 1 (late 14th c.)
-- **Lanzarote** (Castilian): Madrid, BNE, MS 9611 (copied from a 1414 exemplar)
-- **Five French witnesses**, including:
-  - Paris, BnF, fr. 111 (15th c.)
-  - Paris, BnF, fr. 751 (13th c.)
-  - Editions based on:
-    - London, BL, Add. 10293
-    - Cambridge, CCCC 45
-    - Oxford, Bodleian Library, Rawlinson D. 899
-  - The 1488 incunabula edition (Paris, BnF, RES-Y2-46 and RES-Y2-47)
-
-Only three comparable segments were retained and aligned:
-- `ii-48`, `ii-61`, and `iv-75`, based on the structure of the Micha edition.
-
 ---
 
 ## 🧰 Alignment Tool
