@@ -5,6 +5,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/carolisteia/lancelot-par-maints-langages)](https://github.com/carolisteia/lancelot-par-maints-langages/commits/main)
 [![Repo Size](https://img.shields.io/github/repo-size/carolisteia/lancelot-par-maints-langages)](https://github.com/carolisteia/lancelot-par-maints-langages)
 [![Issues](https://img.shields.io/github/issues/carolisteia/lancelot-par-maints-langages)](https://github.com/carolisteia/lancelot-par-maints-langages/issues)
+[![Paper: CHR 2024](https://img.shields.io/badge/📄_Paper-CHR%202024-blue)](https://ceur-ws.org/Vol-3834/paper104.pdf)
 
 # 📜 Across Languages, Lancelot Rides  
 *Tracing Lancelot’s journey not only through lands and courts, but through languages, manuscripts, and time.*
